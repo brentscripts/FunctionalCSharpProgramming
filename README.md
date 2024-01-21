@@ -1,10 +1,10 @@
-# Code Wars Challenges with LINQPad
+# Practice Functional C# Programming with LINQPad
 
-Welcome to my repository where I tackle algorithm challenges from Code Wars using LINQPad, leveraging LINQ and functional programming concepts.
+Welcome to my repository, where I engage in functional programming with C# by tackling algorithmic challenges using LINQPad. I leverage LINQ and functional programming concepts to enhance my skills.
 
 ## Overview
 
-In this repository, you'll find LINQPad files containing solutions to various algorithm challenges sourced from Code Wars. I apply functional programming principles, inspired by the teachings in the book "Functional Programming with C# by Simon J. Painter"."
+In this repository, you'll find LINQPad files containing my solutions to various algorithm challenges.  Some of the functional programming principles applied are inspired by teachings in the book "Functional Programming with C# by Simon J. Painter"."
 
 ## Challenges
 
@@ -18,6 +18,6 @@ The challenges cover a range of topics, from array manipulation to string algori
 
 ## Challenges Credits
 
-All challenges are sourced from Code Wars. Check out [Code Wars](https://www.codewars.com) for more algorithmic challenges and to sharpen your coding skills.
+Many of the challenges are sourced from Code Wars. Check out [Code Wars](https://www.codewars.com) for more algorithmic challenges and to sharpen your coding skills.
 
 Happy Coding!
