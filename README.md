@@ -14,7 +14,7 @@ The challenges cover a range of topics, from array manipulation to string algori
 
 1. Clone the repository to your local machine.
 2. Open LINQPad and load the specific LINQPad file for the challenge you're interested in.
-3. Explore the problem, input, and my solution using LINQ, functional programming, and techniques from the book.
+3. Explore the problem and my code solution.
 
 ## Challenges Credits
 
